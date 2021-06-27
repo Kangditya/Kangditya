@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kangditya
 - 👀 I’m interested in Python and Data Science
 - 🌱 I’m currently learning Java and Data Science
-- 💞️ I’m looking to collaborate on Data Science and Java Programming
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning Programming
 - 📫 How to reach me by my social media account
 
 <!---
